@@ -31,6 +31,10 @@ Choose the file you want to decompress:
 
 ![](https://media.discordapp.net/attachments/847994332019556382/861432462093320222/Ec1igwcc.png)
 
+This new form should open up. Choose the file you want to decompress and press decompress: 
+
+![](https://cdn.upload.systems/uploads/bYz1v0Dn.png)
+
 The decompressed file should be saved to the original file location. The compressed file will be deleted.
 
 
