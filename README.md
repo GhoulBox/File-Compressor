@@ -15,7 +15,7 @@ The compressed file extension should be changed to something like this:
 
 ![](https://media.discordapp.net/attachments/847994332019556382/861434170236076082/76J4mpvg.png)
 
-The "Hello World" that was previously in the text file is now null.
+The "Hello World" that was previously in the text file is now unreadable.
 
 ![](https://media.discordapp.net/attachments/847994332019556382/861434492123873280/naidF2LB.png)
 
