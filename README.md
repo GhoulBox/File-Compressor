@@ -1,8 +1,8 @@
 ## File Compressor: How To Use
 
-Lets take this text file for exmaple.
+Lets take this .txt(text) file for exmaple.
 
-![](![](https://media.discordapp.net/attachments/847994332019556382/861430823802241074/W8yio4fN.png)
+![](https://media.discordapp.net/attachments/847994332019556382/861433176748195870/YhoTS5rF.png)
 
 
 Choose the file you want to compress:
