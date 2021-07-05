@@ -1,5 +1,4 @@
-##h2
-File Compressor: How To Use
+## File Compressor: How To Use
 
 
 Choose the file you want to compress:
