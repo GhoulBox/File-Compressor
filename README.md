@@ -19,6 +19,7 @@ The "Hello World" that was previously in the text file is now unreadable.
 
 ![](https://media.discordapp.net/attachments/847994332019556382/861434492123873280/naidF2LB.png)
 
+
 Alternative (Notepad++): 
 ![](https://images-ext-1.discordapp.net/external/0FsoqEBkCoyVkUYXqznAaM7ow6Nq4nm81WDO3Msy_os/https/cdn.upload.systems/uploads/S3iu8E0n.png)
 
