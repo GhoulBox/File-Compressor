@@ -7,7 +7,7 @@ Choose the file you want to compress:
 
 Press the compress button. The compressed file on default should then be saved to your desktop.
 
-#### File Decompressor: How To use
+## File Decompressor: How To use
 
 
 Choose the file you want to decompress:
