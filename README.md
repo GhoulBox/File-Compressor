@@ -1,6 +1,6 @@
 ## File Compressor: How To Use
 
-Lets take this .txt (text) file for exmaple.
+Lets take this .txt (text) file for example.
 
 ![](https://media.discordapp.net/attachments/847994332019556382/861433176748195870/YhoTS5rF.png)
 
